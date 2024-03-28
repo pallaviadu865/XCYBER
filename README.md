@@ -215,17 +215,16 @@ NOW Deploy👇
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [hadisamasd151@gmail.com](mailto:hadisamasd151@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
-- [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
-- [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+- [`XLICON Community`](https://whatsapp.com/channel/0029VaBYxg0FCCoPEa0cP53U)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+  
+<a aria-label="Join our chats" href="https://wa.me/923145283560?text=Hi!! SheikhHadi Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -256,8 +255,8 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD.git
-cd XLICON-V3-MD
+git clone https://github.com/<your gitHub Username>/Xcyber-md.git
+cd xcyber-md 
 
 npm start
 ```
