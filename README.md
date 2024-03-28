@@ -15,10 +15,9 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![SHEIKH](https://telegra.ph/file/f456e37047ac46a629543.jpg)](https://youtube.com/@mrdevelopershahzada)
+[![SHEIKH](https://telegra.ph/file/f456e37047ac46a629543.jpg)]
 
-<p align="center">
-<a href="https://github.com/xcyber-md"><img title="Author" src="https://img.shields.io/badge/CREATOR-XCYBER-MD-black.svg?style=for-the-badge&logo=github"></a>
+
 
 ### ℹ️ **About XCYBER-MD**
 XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [HADI SHEIKH](https://github.com/xcyber-md). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
@@ -31,7 +30,7 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [HADI SHEIKH](https:/
 <a href="https://github.com/xcyber-md/xcyber/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xcyber-md/XCYBER?color=blue&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V3-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
+<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-HADI%20SHEIKH.-red?v=103"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V3-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/salmanytofficial/XLICON-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
@@ -42,13 +41,13 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [HADI SHEIKH](https:/
   
 ####
 
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
+*XCYBER-MD/XCYBER* - A Advanced Multi Device whatsapp bot Based on *SHEIKH V10*
 -------
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find XCYBER-MD/XCYBER helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -60,7 +59,6 @@ Thanks to all contributors! 🚀
 Scan qr code from the above button, u can pay through Buy Me A Coffee...
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
 
 <p align="left">
 Click On The Link To Donate ME...
@@ -75,14 +73,14 @@ Click On The Link To Donate ME...
 | Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
 | Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
 | Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
+| Bot Control Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V3-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/xcyber-md/xcyber/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Creds Json (SERVER 1)
     <br>
