@@ -181,43 +181,34 @@ NOW Deploy👇
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 
-# `TUTORIALS`
 
-***Deploy on Heroku Video ⇓***
- <p align="left">
-<a href="https://youtu.be/gPPf3AzgDq0?si=ExGosf3FfC5PIREH"><img align="center" src="https://telegra.ph/file/de08dc0620a720b81035d.jpg" alt="DEPLOY" height="110" width="200" /></a>
- </p>
- </br>
  
-***Logs Error Fix Video ⇓***
- <p align="left">
-<a href="https://youtu.be/P9PPuwCqL4c?si=vmlvopHRVEvAcdv5"><img align="center" src="https://i.ibb.co/BwdgN5Q/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png" alt="DEPLOY" height="110" width="200" /></a>
+
    
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - By CHEEMS BOTZ</button></div>
-<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
+
+<div><button id="boton" type="button">Base  - By SHEIKH BOTZ</button></div>
+<a href="https://github.com/xcyber-md/XCYBER"><img src="https://telegra.ph/file/da6d17766cff24ffe773b.jpg" width="150" height="150" alt="SHEIKH"/></a>
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/xcyber-md/XCYBER"><img src="https://telegra.ph/file/da6d17766cff24ffe773b.jpg" width="250" height="250" alt="SHEIKH HADI"/></a>
   
-**XLICON-V3** - By `salmanytofficial`
+**XCYBER** - By `SHEIKHHADI`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## 🏷️ `Main Dev` 
-<a href="https://github.com/V-E-N-O-X"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
+<a href="https://github.com/XCYBER-MD/XCYBER"><img src="https://telegra.ph/file/da6d17766cff24ffe773b.jpg" width="250" height="250" alt="Sheikh"/></a>
   
-**XLICON-V3** - By `Slahser Senpai`
+**Sheikh** - By `SHEIKH HADI`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
-## 🏷️ `Contributer` 
-<a href="https://github.com/dragiez"><img src="https://github.com/dragiez.png" width="250" height="250" alt="DRAGIEZ"/></a>
+
   
-**XLICON-V3** - By `Dragiez`
+**SHEIKH-V3** - By `HADI`
 <br>
 `Development , Features Enhancement , Code Testing`
 
