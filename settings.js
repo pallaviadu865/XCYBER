@@ -1,7 +1,7 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
+//                                 𝐗CYBER  𝐁𝐎𝐓                                                //
 //                                                                                                      // 
 //                                         Ｖ：3.0                                                      // 
 //                                                                                                      // 
@@ -16,22 +16,21 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+ //  * @project_name : XCYBER-MD 
+ //  * @author : SHEIKH
+//   * @description : XCYBER ,A Multi-functional whatsapp user bot.
 //*
 //* 
-//base by DGXeon
+//base by XCYBER 
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//Instagram: 
+//Telegram: t.me/Cyberhadi0071
+//GitHub: @xcyber-md
+//WhatsApp: +923145283560
+//want more free bot scripts? subscribe to my youtube channel:
+//   * Created By Github: SHEIKH
+//   * Credit To HADI
+//   * © 2024 XCYBER-MD 
 // ⛥┌┤
 // */
 
@@ -41,9 +40,9 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: MR DEVELOPER SHAHZADA" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: XCYBER-MD/XCYBER" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
 //________________________________________________________________________________________________________
@@ -56,9 +55,9 @@ global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "www.hamzanews.com"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaBYxg0FCCoPEa0cP53U"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
